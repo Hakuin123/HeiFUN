@@ -2,6 +2,8 @@
 
 HeiFUN是[罗小黑妖灵论坛](www.heibbs.net)的官方应用，可在Android设备、HarmonyOS设备和Windows 11（WSA子系统）上使用。
 
+![高清大Logo](HeiFUN.jpg)
+
 [官方网站](https://HeiFUN.wss.cc)（待建设）
 
 ### 介绍
