@@ -23,19 +23,21 @@ HeiFUN是[罗小黑妖灵论坛](www.heibbs.net)的官方应用，可在Android�
 
 [名句合集](docs/名句合集.xlsx)‖[致谢名单](docs/致谢名单.md)‖[联系我们](mailto:HK256@qq.com)
 
+注：部分文档暂未完成编辑
+
 ## 反馈与建议
 
 可以通过以下几种方式提出您的宝贵意见
 - [发Issues](https://github.com/Hakuin123/HeiFUN/issues/new)
-- [填写反馈收集表]()
+- [填写反馈收集表](https://docs.qq.com/form/page/DQ2NXSldJcWNkVFF5)
 - [发Email](mailto:HK256@qq.com)
 
-也可以[加入官方Q群]()讨论（可互水）
+也可以[加入官方Q群](https://jq.qq.com/?_wv=1027&k=ayoFBVSC)讨论（可互水）
 
-加入我们/合作请联系：[QQ]()or[Email](mailto:HK256@qq.com)
+加入我们/合作请联系：[QQ](https://qm.qq.com/cgi-bin/qm/qr?k=iE7z_j06ND76LrxjLnNYuat2bJRfjk0p&noverify=0)or[Email](mailto:HK256@qq.com)
 
 
-## 开源相关
+## 开源相关:link:
 
 遵循GNU GPL v3.0开源协议，但是还没开源。
 
