@@ -1,24 +1,42 @@
-# HeiFUN
+# HeiFUN:partying_face:
 
-HeiFUN是[罗小黑妖灵论坛](www.heibbs.net)的官方应用，可在Android设备、HarmonyOS设备和Windows 11（WSA子系统）上使用。
+HeiFUN是[罗小黑妖灵论坛](www.heibbs.net)的官方应用，可在Android设备、HarmonyOS设备和Windows 11（WSA子系统）上使用
 
 ![高清大Logo](HeiFUN.jpg)
 
-[官方网站](https://HeiFUN.wss.cc)（待建设）
+## 应用获取:tada:
 
-### 介绍
+推荐渠道顺序为从左到右  如有提取码，统一为1234
 
-HeiFUN构思于2020年1月中旬，同年3月立项，5月5日开始公测。
+|系统|GitHub|百度网盘|蓝奏云|
+|:---:|:---:|:---:|:---:|
+|Android|[Releases](https://github.com/Hakuin123/HeiFUN/releases)|[前往下载](https://pan.baidu.com/s/1XDcHoSnAzZu8xqU7-MAeEw?pwd=1234)|[前往下载](https://www.lanzoul.com/b01zuyyvg)
+|iOS|别想了|不可能|划走吧|
+
+>HarmonyOS兼容Android应用；Windows 11用户请使用WSA子系统安装
+
+*应用体积极小，百度网盘网页端可直接下载；蓝奏云更新慢，不推荐
+
+## 官方文档:open_book:
+
+[更新日志](https://docs.qq.com/doc/DQ3FBUnh1SkhXWmdT)‖[更新记录（GitHub）](https://github.com/Hakuin123/HeiFUN/releases)‖[你知道吗](docs/你知道吗.md)
+
+[名句合集](docs/名句合集.xlsx)‖[致谢名单](docs/致谢名单.md)‖[联系我们](mailto:HK256@qq.com)
+
+## 反馈与建议
+
+可以通过以下几种方式提出您的宝贵意见
+- [发Issues](https://github.com/Hakuin123/HeiFUN/issues/new)
+- [填写反馈收集表]()
+- [发Email](mailto:HK256@qq.com)
+
+也可以[加入官方Q群]()讨论（可互水）
+
+加入我们/合作请联系：[QQ]()or[Email](mailto:HK256@qq.com)
 
 
-
-【腾讯文档】HeiFUN 官方网站
-https://docs.qq.com/doc/DQ0Z6T2FzY2lDRWJj
-
-【腾讯文档】HeiFUN 更新日志
-https://docs.qq.com/doc/DQ3FBUnh1SkhXWmdT
-
-
-### 开源相关
+## 开源相关
 
 遵循GNU GPL v3.0开源协议，但是还没开源。
+
+我们在编写HeiFUN时采用了一些开源项目，详见[致谢名单](docs/致谢名单.md)
