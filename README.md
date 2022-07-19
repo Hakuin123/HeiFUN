@@ -25,7 +25,7 @@ HeiFUN是[罗小黑妖灵论坛](www.heibbs.net)的官方应用，可在Android�
 
 注：部分文档暂未完成编辑
 
-## 反馈与建议
+## 反馈与建议📬
 
 可以通过以下几种方式提出您的宝贵意见
 - [发Issues](https://github.com/Hakuin123/HeiFUN/issues/new)
