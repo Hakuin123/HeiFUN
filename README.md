@@ -1,10 +1,10 @@
 # HeiFUN：罗小黑妖灵论坛官方应用
 
-HeiFUN是[罗小黑妖灵论坛](www.heibbs.net)的官方应用，可在Android设备、HarmonyOS设备和Windows 11（WSA子系统）上使用:partying_face:
+HeiFUN是[罗小黑妖灵论坛](www.heibbs.net)的官方应用，可在Android设备、HarmonyOS设备和Windows 11（WSA子系统）上使用🥳
 
 ![高清大Logo](HeiFUN.jpg)
 
-## 应用获取:tada:
+## 应用获取🎉
 
 推荐渠道顺序为从左到右  如有提取码，统一为1234
 
@@ -17,7 +17,7 @@ HeiFUN是[罗小黑妖灵论坛](www.heibbs.net)的官方应用，可在Android�
 
 *应用体积极小，百度网盘网页端可直接下载；蓝奏云更新慢，不推荐
 
-## 官方文档:open_book:
+## 官方文档📖
 
 [更新日志](https://docs.qq.com/doc/DQ3FBUnh1SkhXWmdT)‖[更新记录（GitHub）](https://github.com/Hakuin123/HeiFUN/releases)‖[你知道吗](docs/你知道吗.md)
 
@@ -37,7 +37,7 @@ HeiFUN是[罗小黑妖灵论坛](www.heibbs.net)的官方应用，可在Android�
 加入我们/合作请联系：[QQ](https://qm.qq.com/cgi-bin/qm/qr?k=iE7z_j06ND76LrxjLnNYuat2bJRfjk0p&noverify=0)or[Email](mailto:HK256@qq.com)
 
 
-## 开源相关:link:
+## 开源相关🔗
 
 遵循GNU GPL v3.0开源协议，但是还没开源。
 
