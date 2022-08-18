@@ -42,3 +42,6 @@ HeiFUN是[罗小黑妖灵论坛](www.heibbs.net)的官方应用，可在Android�
 遵循GNU GPL v3.0开源协议，但是还没开源。
 
 我们在编写HeiFUN时采用了一些开源项目，详见[致谢名单](docs/致谢名单.md)
+
+## 友情链接
+[2048罗小黑](https://hakuin123.github.io/LXH2048/2048lxh.html)
