@@ -102,7 +102,10 @@ GPL v3.0
 
 <details><summary>如何对你们进行赞助？</summary>
 <p>
-非常感谢！![微信赞赏码](/docs/微信赞赏码.png)
+非常感谢！
+
+![微信赞赏码](docs/微信赞赏码.png)
+
 </p>
 </details>
 
