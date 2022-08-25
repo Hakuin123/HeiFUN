@@ -21,7 +21,7 @@ HeiFUN是[罗小黑妖灵论坛](www.heibbs.net)的官方应用，可在Android�
 
 [更新日志](https://docs.qq.com/doc/DQ3FBUnh1SkhXWmdT)‖[更新记录（GitHub）](https://github.com/Hakuin123/HeiFUN/releases)‖[你知道吗](docs/你知道吗.md)
 
-[名句合集](docs/名句合集.xlsx)‖[致谢名单](docs/致谢名单.md)‖[联系我们](mailto:HK256@qq.com)
+[名句合集](docs/名句合集.xlsx)‖[致谢名单](docs/致谢名单.md)‖[联系我们](mailto:HK256@qq.com)‖[常见问题](/docs/HeiFUN常见问题.md)
 
 注：部分文档暂未完成编辑
 
