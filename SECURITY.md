@@ -6,7 +6,7 @@
 | 版本     | 是否支持            |
 | ------- | ------------------ |
 | 2.x.x   | :white_check_mark: |
-| 1.3.x   | :white_check_mark: |
+| ≥ 1.4.x | :white_check_mark: |
 | < 1.3   | :x:                |
 
 ## Reporting a Vulnerability 报告漏洞
