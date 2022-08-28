@@ -19,9 +19,9 @@ HeiFUN是[罗小黑妖灵论坛](www.heibbs.net)的官方应用，可在Android�
 
 ## 官方文档📖
 
-[更新日志](https://docs.qq.com/doc/DQ3FBUnh1SkhXWmdT)‖[更新记录（GitHub）](https://github.com/Hakuin123/HeiFUN/releases)‖[你知道吗](docs/你知道吗.md)
+[更新日志](https://docs.qq.com/doc/DQ3FBUnh1SkhXWmdT)‖[更新记录（GitHub）](https://github.com/Hakuin123/HeiFUN/releases)‖[你知道吗](docs/HeiFUN你知道吗.md)
 
-[名句合集](docs/名句合集.xlsx)‖[致谢名单](docs/致谢名单.md)‖[联系我们](mailto:HK256@qq.com)‖[常见问题](/docs/HeiFUN常见问题.md)
+[名句合集](docs/名句合集.xlsx)‖[致谢名单](docs/HeiFUN致谢名单.md)‖[联系我们](mailto:HK256@qq.com)‖[常见问题](/docs/HeiFUN常见问题.md)
 
 注：部分文档暂未完成编辑
 
@@ -36,6 +36,7 @@ HeiFUN是[罗小黑妖灵论坛](www.heibbs.net)的官方应用，可在Android�
 
 加入我们/合作请联系：[QQ](https://qm.qq.com/cgi-bin/qm/qr?k=iE7z_j06ND76LrxjLnNYuat2bJRfjk0p&noverify=0)or[Email](mailto:HK256@qq.com)
 
+[反馈与建议专页](/docs/HeiFUN反馈与建议.md)
 
 ## 开源相关🔗
 
@@ -44,4 +45,4 @@ HeiFUN是[罗小黑妖灵论坛](www.heibbs.net)的官方应用，可在Android�
 我们在编写HeiFUN时采用了一些开源项目，详见[致谢名单](docs/致谢名单.md)
 
 ## 友情链接
-[2048罗小黑](https://hakuin123.github.io/LXH2048/2048lxh.html)
+[2048罗小黑](https://hakuin123.github.io/LXH2048/index.html)
