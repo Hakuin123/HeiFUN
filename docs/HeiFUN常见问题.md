@@ -60,9 +60,9 @@
 
 <details><summary>2.x版本页面放大后闪退？</summary>
 <p>
-我们正在追踪此类问题，请立即联系我们并反馈此现象！
-Email：HK256@qq.com
-QQ：3248927616
+我们正在追踪此类问题，请立即在页面底部跳转到“HeiFUN反馈与建议”反馈此现象！
+
+【2022年8月30日更新】请使用双击放大
 </p>
 </details>
 
@@ -94,7 +94,7 @@ GPL v3.0
 
 <details><summary>开源项目列表怎么没我？</summary>
 <p>
-部分项目在统计中或有遗漏，请[联系我们](mailto:HK256@qq.com)并证明你的身份
+部分项目在统计中或有遗漏，请在页面下方联系我们并证明你的身份
 </p>
 </details>
 
@@ -112,13 +112,15 @@ GPL v3.0
 <details><summary>我（们）能否加入你们？</summary>
 <p>
 肥肠欢迎！请联系白隐Hakuin：
+
 [QQ](https://qm.qq.com/cgi-bin/qm/qr?k=iE7z_j06ND76LrxjLnNYuat2bJRfjk0p) 或 [Email](mailto:HK256@qq.com)
 </p>
 </details>
 
+
 <details><summary>1+1=？</summary>
 <p>
- 2
+2
 </p>
 </details>
 
@@ -131,11 +133,8 @@ GPL v3.0
 ## 反馈问题
 
 若您仍有疑问或此文档未解答您的问题，请联系我们
-联系白隐Hakuin：
-[QQ](https://qm.qq.com/cgi-bin/qm/qr?k=iE7z_j06ND76LrxjLnNYuat2bJRfjk0p) 或 [Email](mailto:HK256@qq.com)
-您也可以选择加入HeiFUN官服QQ群：421853830
 
-
+[HeiFUN反馈与建议](/docs/HeiFUN反馈与建议.md)
 
 ### 别的东西
 编辑时采用的Markdown模板：
