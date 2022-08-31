@@ -134,7 +134,7 @@ GPL v3.0
 
 若您仍有疑问或此文档未解答您的问题，请联系我们
 
-[HeiFUN反馈与建议](/docs/HeiFUN反馈与建议.md)
+[HeiFUN反馈与建议](HeiFUN反馈与建议.md)
 
 ### 别的东西
 编辑时采用的Markdown模板：
