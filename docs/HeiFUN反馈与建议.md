@@ -1,6 +1,6 @@
 # HeiFUN反馈与建议
 
->在反馈问题前，请先浏览[HeiFUN常见问题](https://hakuin123.github.io/HeiFUN/docs/HeiFUN常见问题)页面。若您仍有疑问，请在此页面反馈。
+>在反馈问题前，请先浏览[HeiFUN常见问题](/docs/HeiFUN常见问题.md)页面。若您仍有疑问，请在此页面反馈。
 
 ## 反馈途径
 
