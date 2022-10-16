@@ -48,3 +48,5 @@ HeiFUN是[罗小黑妖灵论坛](www.heibbs.net)的官方应用，可在Android�
 
 ## 友情链接
 [2048罗小黑](https://2048LXH.HK256.top)
+
+[白熊工作室官网](https://www.HK256.top)
