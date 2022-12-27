@@ -19,7 +19,7 @@
 ---
 
 ## 你知道吗#2
-- HeiFUN首页子标题是随机的，且夹带有私货~~（臭不要脸）~~，详见名句全集 
+- HeiFUN首页子标题是随机的，且夹带有私货~~臭不要脸~~，详见名句全集 
 - HeiFUN采用的编程软件是FusionAPP。HeiFUN 1.x采用FA1.1.4，而HeiFUN 2.x采用FA2.x，但FA1.x与2.x不兼容，故HeiFUN2.x相当于重写一遍
 - HeiFUN子标题部分诗句是从Windows更新时显示的诗句中选的
 - HeiFUN的彩蛋由每次启动随机生成的FUN值决定
